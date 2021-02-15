@@ -7,7 +7,7 @@ group :development do
   gem 'bundler'
   gem 'simplecov'
 
-  gem 'redis-namespace', '>= 1.5.2'
+  gem 'redis-namespace', '>= 1.8.0'
   gem 'shoulda-context'
 
   gem 'rack'
